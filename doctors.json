@@ -1,0 +1,37 @@
+[
+  {
+    "id": 201,
+    "name": "Dr. John Smith",
+    "specialization": "Cardiologist",
+    "phone": "+230 5550 1122",
+    "email": "john.smith@hospital.com",
+    "password": "CardioDoc123"
+  },
+
+  {
+    "id": 202,
+    "name": "Dr. Emily Johnson",
+    "specialization": "Dermatologist",
+    "phone": "+230 5550 3344",
+    "email": "emily.johnson@hospital.com",
+    "password": "DermaDoc123"
+  },
+
+  {
+    "id": 203,
+    "name": "Dr. Michael Brown",
+    "specialization": "Neurologist",
+    "phone": "+230 5550 5566",
+    "email": "michael.brown@hospital.com",
+    "password": "NeuroDoc123"
+  },
+
+  {
+    "id": 204,
+    "name": "Dr. Sophia Davis",
+    "specialization": "Pediatrician",
+    "phone": "+230 5550 7788",
+    "email": "sophia.davis@hospital.com",
+    "password": "PediaDoc123"
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "id": 501,
+    "patient_id": 301,
+    "doctor_id": 201,
+    "date": "2025-10-01",
+    "time": "09:00",
+    "reason": "Fever and cough"
+  },
+
+  {
+    "id": 502,
+    "patient_id": 302,
+    "doctor_id": 202,
+    "date": "2025-10-02",
+    "time": "10:30",
+    "reason": "Back pain"
+  },
+
+  {
+    "id": 503,
+    "patient_id": 303,
+    "doctor_id": 203,
+    "date": "2025-10-03",
+    "time": "11:00",
+    "reason": "Allergy check-up"
+  },
+
+  {
+    "id": 504,
+    "patient_id": 304,
+    "doctor_id": 204,
+    "date": "2025-10-04",
+    "time": "14:00",
+    "reason": "Diabetes follow-up"
+  },
+
+  {
+    "id": 505,
+    "patient_id": 305,
+    "doctor_id": 201,
+    "date": "2025-10-05",
+    "time": "09:30",
+    "reason": "Blood pressure check"
+  },
+
+  {
+    "id": 506,
+    "patient_id": 306,
+    "doctor_id": 202,
+    "date": "2025-10-06",
+    "time": "10:00",
+    "reason": "Stomach pain"
+  },
+
+  {
+    "id": 507,
+    "patient_id": 307,
+    "doctor_id": 203,
+    "date": "2025-10-07",
+    "time": "11:30",
+    "reason": "Cholesterol follow-up"
+  },
+
+  {
+    "id": 508,
+    "patient_id": 308,
+    "doctor_id": 204,
+    "date": "2025-10-08",
+    "time": "15:00",
+    "reason": "Asthma management"
+  },
+
+  {
+    "id": 509,
+    "patient_id": 309,
+    "doctor_id": 201,
+    "date": "2025-10-09",
+    "time": "09:45",
+    "reason": "Throat infection"
+  },
+
+  {
+    "id": 510,
+    "patient_id": 310,
+    "doctor_id": 202,
+    "date": "2025-10-10",
+    "time": "10:15",
+    "reason": "Hypertension follow-up"
+  },
+
+  {
+    "id": 511,
+    "patient_id": 311,
+    "doctor_id": 203,
+    "date": "2025-10-11",
+    "time": "11:15",
+    "reason": "Thyroid check"
+  },
+
+  {
+    "id": 512,
+    "patient_id": 312,
+    "doctor_id": 204,
+    "date": "2025-10-12",
+    "time": "14:30",
+    "reason": "Respiratory infection"
+  }
+]

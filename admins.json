@@ -1,0 +1,38 @@
+[
+
+  {
+    "id": 1,
+    "name": "Super Admin",
+    "email": "superadmin@clinic.com",
+    "role": "super_admin",
+    "permissions": ["all"],
+    "password": "Admin123"
+  },
+
+  {
+    "id": 2,
+    "name": "Clinic Manager",
+    "email": "manager@clinic.com",
+    "role": "manager",
+    "permissions": ["manage_doctors", "manage_appointments", "manage_patients"],
+    "password": "Admin123"
+  },
+
+  {
+    "id": 3,
+    "name": "Receptionist",
+    "email": "reception@clinic.com",
+    "role": "receptionist",
+    "permissions": ["schedule_appointments", "check_in_patients"],
+    "password": "Admin123"
+  },
+
+  {
+    "id": 4,
+    "name": "Pharmacy Admin",
+    "email": "pharmacy@clinic.com",
+    "role": "pharmacy_admin",
+    "permissions": ["manage_prescriptions", "update_medicine_stock"],
+    "password": "Admin123"
+  }
+]
