@@ -34,13 +34,4 @@
     "email": "sophia.davis@hospital.com",
     "password": "PediaDoc123"
   }
-
-    {
-    "id": 205,
-    "name": "Dr. James Banks",
-    "specialization": "General Doctor",
-    "phone": "+230 5440 7908",
-    "email": "James.banks@hospital.com",
-    "password": "GenDoc123"
-  }
 ]
