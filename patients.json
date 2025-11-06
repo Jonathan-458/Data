@@ -1,0 +1,133 @@
+[
+  {
+    "id": 301,
+    "name": "Samuel Brown",
+    "age": 32,
+    "gender": "Male",
+    "phone": "+230 5551 1122",
+    "email": "samuel.brown@example.com",
+    "medicalHistory": ["Hypertension"],
+    "password": "HypertensionPat123"
+  },
+
+  {
+    "id": 302,
+    "name": "Emily White",
+    "age": 27,
+    "gender": "Female",
+    "phone": "+230 5551 3344",
+    "email": "emily.white@example.com",
+    "medicalHistory": ["Asthma"],
+    "password": "AsthmaPat123"
+  },
+
+  {
+    "id": 303,
+    "name": "Michael Green",
+    "age": 45,
+    "gender": "Male",
+    "phone": "+230 5551 5566",
+    "email": "michael.green@example.com",
+    "medicalHistory": ["Diabetes"],
+    "password": "DiabetesPat123"
+  },
+
+  {
+    "id": 304,
+    "name": "Sophia Black",
+    "age": 36,
+    "gender": "Female",
+    "phone": "+230 5551 7788",
+    "email": "sophia.black@example.com",
+    "medicalHistory": ["Allergy"],
+    "password": "AllergyPat123"
+  },
+
+  {
+    "id": 305,
+    "name": "Daniel King",
+    "age": 50,
+    "gender": "Male",
+    "phone": "+230 5551 9900",
+    "email": "daniel.king@example.com",
+    "medicalHistory": ["High Cholesterol"],
+    "password": "HighPat123"
+  },
+
+  {
+    "id": 306,
+    "name": "Olivia Brown",
+    "age": 29,
+    "gender": "Female",
+    "phone": "+230 5552 1122",
+    "email": "olivia.brown@example.com",
+    "medicalHistory": [],
+    "password": "HealthyPat123"
+  },
+
+  {
+    "id": 307,
+    "name": "Ethan Taylor",
+    "age": 41,
+    "gender": "Male",
+    "phone": "+230 5552 3344",
+    "email": "ethan.taylor@example.com",
+    "medicalHistory": ["Back Pain"],
+    "password": "BackPat123"
+  },
+
+  {
+    "id": 308,
+    "name": "Ava Wilson",
+    "age": 33,
+    "gender": "Female",
+    "phone": "+230 5552 5566",
+    "email": "ava.wilson@example.com",
+    "medicalHistory": ["Migraine"],
+    "password": "MigrainePat123"
+  },
+
+  {
+    "id": 309,
+    "name": "Noah Martin",
+    "age": 37,
+    "gender": "Male",
+    "phone": "+230 5552 7788",
+    "email": "noah.martin@example.com",
+    "medicalHistory": [],
+    "password": "HealthyPat123"
+  },
+
+  {
+    "id": 310,
+    "name": "Isabella Scott",
+    "age": 26,
+    "gender": "Female",
+    "phone": "+230 5552 9900",
+    "email": "isabella.scott@example.com",
+    "medicalHistory": ["Asthma"],
+    "password": "AsthmaPat123"
+  },
+
+  {
+    "id": 311,
+    "name": "Liam Harris",
+    "age": 39,
+    "gender": "Male",
+    "phone": "+230 5553 1122",
+    "email": "liam.harris@example.com",
+    "medicalHistory": ["Diabetes", "Hypertension"],
+    "password": "DiabetesPat123"
+  },
+
+  {
+    "id": 312,
+    "name": "Mia Clark",
+    "age": 31,
+    "gender": "Female",
+    "phone": "+230 5553 3344",
+    "email": "mia.clark@example.com",
+    "medicalHistory": ["Allergy"],
+    "password": "AllergyPat123"
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "id": 401,
+    "patient_id": 301,
+    "doctor_id": 201,
+    "medications": ["Paracetamol 500mg", "Amoxicillin 250mg"],
+    "date": "2025-10-01",
+    "notes": "Take after meals"
+  },
+
+  {
+    "id": 402,
+    "patient_id": 302,
+    "doctor_id": 202,
+    "medications": ["Ibuprofen 400mg"],
+    "date": "2025-10-02",
+    "notes": "For pain relief"
+  },
+
+  {
+    "id": 403,
+    "patient_id": 303,
+    "doctor_id": 203,
+    "medications": ["Cetirizine 10mg"],
+    "date": "2025-10-03",
+    "notes": "Allergy treatment"
+  },
+
+  {
+    "id": 404,
+    "patient_id": 304,
+    "doctor_id": 204,
+    "medications": ["Metformin 500mg"],
+    "date": "2025-10-04",
+    "notes": "Take with breakfast"
+  },
+
+  {
+    "id": 405,
+    "patient_id": 305,
+    "doctor_id": 201,
+    "medications": ["Lisinopril 10mg"],
+    "date": "2025-10-05",
+    "notes": "Monitor blood pressure"
+  },
+
+  {
+    "id": 406,
+    "patient_id": 306,
+    "doctor_id": 202,
+    "medications": ["Omeprazole 20mg"],
+    "date": "2025-10-06",
+    "notes": "Before meals"
+  },
+
+  {
+    "id": 407,
+    "patient_id": 307,
+    "doctor_id": 203,
+    "medications": ["Atorvastatin 20mg"],
+    "date": "2025-10-07",
+    "notes": "Take at night"
+  },
+
+  {
+    "id": 408,
+    "patient_id": 308,
+    "doctor_id": 204,
+    "medications": ["Salbutamol Inhaler"],
+    "date": "2025-10-08",
+    "notes": "Use as needed"
+  },
+
+  {
+    "id": 409,
+    "patient_id": 309,
+    "doctor_id": 201,
+    "medications": ["Amoxicillin 500mg"],
+    "date": "2025-10-09",
+    "notes": "Complete full course"
+  },
+
+  {
+    "id": 410,
+    "patient_id": 310,
+    "doctor_id": 202,
+    "medications": ["Hydrochlorothiazide 25mg"],
+    "date": "2025-10-10",
+    "notes": "Morning dose"
+  },
+
+  {
+    "id": 411,
+    "patient_id": 311,
+    "doctor_id": 203,
+    "medications": ["Levothyroxine 50mcg"],
+    "date": "2025-10-11"
+  }
+]
